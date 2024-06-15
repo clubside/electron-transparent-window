@@ -1,0 +1,18 @@
+{
+  "name": "electron-transparent-window",
+  "version": "1.0.0",
+  "description": "Simple starter project for Electron using a frameless and transparent window.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "starter"
+  ],
+  "author": "Chris Rowley",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^22.3.18"
+  }
+}
